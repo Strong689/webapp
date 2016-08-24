@@ -13,4 +13,4 @@ Copyright Docker Inc Education Team 2014 <education@docker.com>
 
 ## New testing 
 1. build details page
-2. 
+2. try trigger 1st
